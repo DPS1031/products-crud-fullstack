@@ -11,7 +11,7 @@ A full-stack product management application built with **TypeScript**, **Node.js
 
 | Login | Products Dashboard |
 |---|---|
-| <img width="596" height="477" alt="image" src="https://github.com/user-attachments/assets/932e649f-32f3-4038-91f3-debe2eadd2b9" />|
+| <img width="596" height="477" alt="image" src="https://github.com/user-attachments/assets/932e649f-32f3-4038-91f3-debe2eadd2b9" />
 | <img width="925" height="350" alt="image" src="https://github.com/user-attachments/assets/16899a58-d498-47d5-a30c-2fac890457f9" />|
 
 ---
