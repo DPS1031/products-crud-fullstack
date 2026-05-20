@@ -185,7 +185,6 @@ docker run -d -p 80:80 061513606908.dkr.ecr.us-east-1.amazonaws.com/frontend:lat
 
 ---
 
-## 👨‍💻 Author
-
-**David** — Full Stack Developer  
-Itagüí, Antioquia, Colombia
+<p align="center">
+  Built with ❤️ by <a href="https://www.linkedin.com/in/david-pedroza-sanchez-9525b0346">David Pedroza Sánchez</a>
+</p>
